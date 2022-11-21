@@ -1,5 +1,5 @@
 ## Location 1
-Before the first gate on the big brige down to the left
+Before the first gate on the big bridge down to the left
 ![grimLocation](/Darktide-Collectible/assets/_images/20221121165803_1.jpg)
 ![](/Darktide-Collectible/assets/_images/20221121165821_1.jpg)
 ## Location 2
