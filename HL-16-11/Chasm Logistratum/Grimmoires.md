@@ -1,6 +1,6 @@
 ## Location 1
 Before the first gate on the big bridge down to the left
-![grimLocation](./assets/_images/20221121165803_1.jpg)
+![grimLocation](images/20221121165803_1.jpg)
 ![](/Darktide-Collectible/assets/_images/20221121165821_1.jpg)
 ## Location 2
 after the gate on the big bridge to the right
