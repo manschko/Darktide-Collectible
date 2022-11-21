@@ -3,17 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <title>Darktide Collectible</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-<div class="input-field col s12">
-    <select>
-        <option value="" disabled selected>Choose your option</option>
-        <option value="1">HL-16-11</option>
-        <option value="2">HL-18-66</option>
-    </select>
-    <label>Location</label>
+<style>
+    body {
+        background-color: #1b1b1b;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    Label {
+        color: white;
+    }
+    .select{
+        padding: 10px 0;
+    }
+    #select-container {
+        width:50%;
+
+    }
+</style>
+<div id="select-container">
+    <div class="select">
+        <label>Location</label>
+        <select class="form-select" aria-label="Default select example" id="select-location">
+            <option selected disabled>Choose a Location</option>
+            <option value="HL-16-11">HL-16-11</option>
+            <option value="HL-18-66">HL-18-66</option>
+        </select>
+    </div>
+    <div class="select">
+        <label>Mission</label>
+        <select class="form-select" aria-label="Default select example" id="select-mission">
+
+        </select>
+    </div>
+    <div class="select">
+        <input class="btn btn-secondary" type="button" value="Show me the Loot!" id="button-go" disabled onclick="newLocation()">
+    </div>
 </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+<script>
+    const missions = {
+        "HL-16-11":["Chasm Logistratum", "Chasm Station", "Hab Dreyko"],
+        "HL-18-66":["Magistrati Oubliette"]
+    }
+    const missionSelect = document.getElementById("select-mission");
+    const locationSelect = document.getElementById("select-location");
+    const buttonGo = document.getElementById("button-go");
+    locationSelect.onchange = function() {
+        missionSelect.length = 0;
+        for (let y in missions[this.value]) {
+            missionSelect.options[missionSelect.options.length] = new Option(missions[this.value][y], missions[this.value][y]);
+        }
+        buttonGo.disabled = false;
+    }
+    function newLocation() {
+        window.location.href= '/'+locationSelect.value+'/'+missionSelect.value;
+    }
+</script>
 </body>
 </html>
