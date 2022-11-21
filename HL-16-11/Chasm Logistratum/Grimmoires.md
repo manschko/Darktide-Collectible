@@ -1,6 +1,6 @@
 ## Location 1
 Before the first gate on the big brige down to the left
-![grimLocation](/_images/20221121165803_1.jpg)
+![grimLocation](./_images/20221121165803_1.jpg)
 ![](/_images/20221121165821_1.jpg)
 ## Location 2
 after the gate on the big bridge to the right
