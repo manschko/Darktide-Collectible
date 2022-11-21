@@ -4,7 +4,12 @@ right at the Begining after the first drop down
 ![](images/20221121153456_1.jpg)
 
 ## Location
-After the skull hacking in the circle room behind the Wall in picture 1
+After the skull hacking in the circle room 
+### grim 1
+direct on the left
+![](images/20221121210953_1.jpg)
+### grim 2 
+behind the Wall in picture 1
 ![](images/20221121144734_1_edit.jpg)
 ![](images/20221121144845_1_edit.jpg)
 

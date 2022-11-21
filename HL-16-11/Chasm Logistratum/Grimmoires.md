@@ -3,6 +3,8 @@ Before the first gate on the big brige down to the left
 ![](images/20221121165803_1.jpg)
 
 ![](images/20221121165821_1.jpg)
+### Grim 2
+![](images/20221121194752_1_edit.jpg)![](images/20221121194807_1.jpg)
 ## Location 2
 after the gate on the big bridge to the right
 ![](images/20221121130458_1.jpg)
