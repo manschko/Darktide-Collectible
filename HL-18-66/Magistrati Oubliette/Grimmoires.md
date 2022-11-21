@@ -5,7 +5,7 @@ after the first drop down behind you!
 
 ## Location 2
 
-![](/assets/_images/unnamed-file-512.jpg)
-![](/assets/_images/unnamed-file-513.jpg)
+![](/docs/assets/_images/unnamed-file-512.jpg)
+![](/docs/assets/_images/unnamed-file-513.jpg)
 
 ## Location 3
