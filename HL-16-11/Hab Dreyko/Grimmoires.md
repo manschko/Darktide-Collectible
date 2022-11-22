@@ -1,5 +1,5 @@
 ## Location 2
-Right after the dropdown to the right of gate 315 
+Right after the drop down to the right of gate 315 
 ![](images/20221121230420_1_edit.jpg)
 ![](images/20221121230425_1.jpg)
 ## Location 2 (unconfirmed)

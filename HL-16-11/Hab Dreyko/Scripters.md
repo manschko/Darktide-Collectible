@@ -1,7 +1,7 @@
 ## Location 1
 Right at the beginning after the drop down behind
 ![](images/20221121213117_1.jpg)
-![](images/20221121213141_1_edit.jpg)w
+![](images/20221121213141_1_edit.jpg)
 ## Location 2
 Right next to the first medi station
 ![](images/20221121215352_1_edit.jpg)
