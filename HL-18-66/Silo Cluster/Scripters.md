@@ -12,5 +12,5 @@ After the Elevator on the left
 ![](images/20221123054916_1_edit.jpg)
 ## Location 4
 Right before the holo statue, in the Tunnel on the right wall
-![](../../../20221123061958_1.jpg)
-![](../../../20221123061950_1.jpg)
+![](images/20221123061958_1.jpg)
+![](images/20221123061950_1.jpg)
