@@ -21,4 +21,4 @@ After the Elevator on the left
 ## Location 6
 Right before the holo statue, in the Tunnel on the right wall
 ![](images/20221123061958_1.jpg)
-![](images/20221123061950_1.jpg)
+![](images/20221123061950_1.jpg )
