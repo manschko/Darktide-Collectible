@@ -1,4 +1,4 @@
-## Loaction ? - Skylink Bridge
+## Location 1 - Skylink Bridge
 Drop down this
 ![](images/Grimoir-Skylink-Bridge-1.jpg)
 Go straight ahead
