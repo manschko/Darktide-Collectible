@@ -7,7 +7,7 @@
           integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
-<body>
+<body onload="populate()">
 <style>
     body {
         background-color: #1b1b1b;
@@ -31,10 +31,10 @@
     }
 </style>
 <div id="select-container">
-    <div class="select">
+    <div class="select" >
         <label>Location</label>
         <select class="form-select" aria-label="Default select example" id="select-location">
-            <option selected disabled>Choose a Location</option>
+            <option selected disabled value="">Choose a Location</option>
             <option value="HL-16-11">HL-16-11</option>
             <option value="HL-17-36">HL-17-36</option>
             <option value="HL-18-66">HL-18-66</option>
@@ -71,7 +71,7 @@
         "HL-17-36": ["Smelter Complex", "Power Matrix", "Consignment Yard"],
         "HL-18-66": ["Magistrati Oubliette", "Silo Cluster", "Vigil Station"],
         "HL-19-24": ["Enclavum Baross"],
-        "HL-32-2": ["Relay Station", "Exice Vault", "Freight Port", "Refinery Delta"]
+        "HL-32-2": ["Relay Station", "Excise Vault", "Freight Port", "Refinery Delta"]
     }
     const missionSelect = document.getElementById("select-mission");
     const locationSelect = document.getElementById("select-location");
@@ -94,6 +94,16 @@
             }
         }
         window.location.href = '/Darktide-Collectible/' + locationSelect.value + '/' + missionSelect.value + '/' + location;
+    }
+    // function for backup population of select to resolve issue when going back more then once
+    function populate(){
+        if (locationSelect.value){
+            missionSelect.length = 0;
+            for (let y in missions[locationSelect.value]) {
+                missionSelect.options[missionSelect.options.length] = new Option(missions[locationSelect.value][y], missions[locationSelect.value][y]);
+            }
+            buttonGo.disabled = false
+        }
     }
 </script>
 </body>
