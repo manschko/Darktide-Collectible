@@ -9,4 +9,4 @@ Before you drop down for the Cryonic Rods hacking event
 ## Location 3 
 After dropping down to start the cryo pod loading event, follow the stairs on the left
 ![](images/20221206193713_1%20-%20Vngeance.jpg)
-![](../../20221207151415_1.jpg)
+![](images/20221207151415_1.jpg)
