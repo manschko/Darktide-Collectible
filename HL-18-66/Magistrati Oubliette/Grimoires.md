@@ -14,3 +14,4 @@ Right next to the drop down before you go up to call the stairs down
 As soon as you enter the chapel to the left
 ![](images/20221121134311_1_edit.jpg)
 ![](images/20221121134257_1.jpg)
+## Location 5

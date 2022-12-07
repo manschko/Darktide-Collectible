@@ -2,15 +2,15 @@
 After you cross the bridge, the scripture is on the right
 ![](images/20221204171602_1_edit.jpg)
 ![](images/20221204171547_1.jpg)
-## Location 2
+## Location 3
 On a wall next to the broken elevator
 ![](images/20221125180632_1_edit.jpg)
 ![](images/20221125180620_1.jpg)
-## Location 3
+## Location 4
 Under the train tracks there is one location in one of the little rooms
 ![](images/20221204172958_1_edit.jpg)
 ![](images/20221204172937_1.jpg)
-## Location 4
+## Location 5
 After the drop down on the back right
 ![](images/20221204173242_1_edit.jpg)
 ![](images/20221204173410_1_edit.jpg)
