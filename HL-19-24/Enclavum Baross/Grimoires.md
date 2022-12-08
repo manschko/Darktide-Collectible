@@ -20,4 +20,7 @@ Behind the pillar
 After you crossed the bridge, go to the left
 ![](images/20221205141700_1_edit.jpg)
 ![](images/20221205141648_1.jpg)
-
+## Location 5
+In the open area after the skylink bridge, head to the back left corner
+![](images/Grimoir-Skylink-Bridge-Market-1.jpg)
+![](images/Grimoir-Skylink-Bridge-Market-2.jpg)
