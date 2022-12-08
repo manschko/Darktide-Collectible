@@ -30,6 +30,6 @@ Inside the Station next to the medi station, walk past the stairs. Behind them t
 Inside the Chasm Staion at the trains
 ![](images/20221122000104_1_edit.jpg)
 ![](images/20221122000055_1_edit.jpg)
-## Location 8 (uncomfirmed)
+## Location 8
 After the drop down inside the station
 ![](images/20221122000220_1_edit.jpg)
