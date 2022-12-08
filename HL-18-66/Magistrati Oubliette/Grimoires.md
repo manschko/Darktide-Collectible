@@ -1,4 +1,3 @@
-
 ## Location 1
 After the second drop down behind you
 ![](images/20221204191512_1_edit.jpg)
@@ -15,3 +14,7 @@ As soon as you enter the chapel to the left
 ![](images/20221121134311_1_edit.jpg)
 ![](images/20221121134257_1.jpg)
 ## Location 5
+After you went up the first set of stairs keep to the right back corner at the end there is a grim
+![](images/1%20-%20Ferguson%20As(1).png)
+![](images/2%20-%20Ferguson%20As(1).png)
+![](images/3%20-%20Ferguson%20As(1).png)
