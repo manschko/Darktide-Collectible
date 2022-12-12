@@ -6,7 +6,7 @@ After you go down the stairs
 After the fist medi station, next to the hole you jump down
 ![](images/20221128144615_1_edit.jpg)
 ![](images/20221128144603_1_edit.jpg)
-## Location 3 (Unconfirmed)
+## Location 3
 On the Bridge with the purple banner near the first medi station
 ![](images/20221122212024_1_edit.jpg)
 ![](images/20221122212100_1_edit.jpg)

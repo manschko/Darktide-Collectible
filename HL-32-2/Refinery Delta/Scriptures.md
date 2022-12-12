@@ -1,5 +1,5 @@
 ## Location 1
-At beginning in the second hangar before you get up to the elevator. The Scrpture is under the elevator
+At the beginning in the second hangar before you get up to the elevator. The Scripture is under the elevator
 ![](images/20221205143911_1_edit.jpg)
 ![](images/20221205143849_1.jpg)
 ## Location 2
