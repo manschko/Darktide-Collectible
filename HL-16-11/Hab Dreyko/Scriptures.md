@@ -15,14 +15,22 @@ After the servo scan event right through the freshly opened door, go to the othe
 ![](images/20221208131425_1_edit.jpg)
 ![](images/20221208131407_1.jpg)
 ## Location 5
+As you're descending the stairs after the 2nd Auspex Scanning area continue to head down the stairs until you reach the dead end
+![](images/20221213200844_1%20-%20James%20Gamlin_edit.jpg)
+![](images/20221213200855_1%20-%20James%20Gamlin.jpg)
+## Location 6
 After the servo scan event right after the drop down on the lowest floor
 ![](images/20221121214009_1_edit.jpg)
 ![](images/20221121213951_1.jpg)
-## Location 6
+## Location 7
+After you drop down into large open area - after the 2nd Scanning Area turn right immediately and look inside the doorway
+![](images/20221213201145_1%20-%20James%20Gamlin_edit.jpg)
+![](images/20221213201116_1%20-%20James%20Gamlin.jpg)
+## Location 8
 The Scripture is right through that door in the last room
 ![](images/20221121220407_1.jpg)
 ![](images/20221121220528_1.jpg)
-## Location 7
+## Location 9
 from the same starting location, go to the right and follow the path until the last room on the right
 ![](images/20221208132341_1_edit.jpg)
 ![](images/20221208132327_1.jpg)
